@@ -1,3 +1,0 @@
-[EXECUTABLE]
-graalvm-performance-backend
-
